@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/frontapp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontapp/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontapp/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontapp/src/App.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontapp/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontapp/src/components/HelloWorld.vue" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/frontapp/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontapp/src/router/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontapp/src/views/About.vue" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/frontapp/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontapp/src/views/Home.vue" afterDir="false" />
@@ -164,11 +165,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609076057360</updated>
-      <workItem from="1609076075637" duration="3604000" />
+      <workItem from="1609076075637" duration="4433000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
