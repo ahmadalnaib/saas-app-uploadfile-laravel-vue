@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d459b8a0-9b63-4010-a53a-9c95ec72ae8e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sassapp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sassapp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backapp/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/backapp/app/Http/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backapp/app/Models/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/backapp/app/Models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backapp/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/backapp/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backapp/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/backapp/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backapp/config/cors.php" beforeDir="false" afterPath="$PROJECT_DIR$/backapp/config/cors.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backapp/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/backapp/routes/api.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontapp" beforeDir="false" afterPath="$PROJECT_DIR$/frontapp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontapp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontapp/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontapp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontapp/package.json" afterDir="false" />
@@ -23,7 +31,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontapp" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -133,6 +141,7 @@
       <path value="$PROJECT_DIR$/backapp/vendor/phar-io/manifest" />
       <path value="$PROJECT_DIR$/backapp/vendor/phar-io/version" />
       <path value="$PROJECT_DIR$/backapp/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/backapp/vendor/laravel/sanctum" />
     </include_path>
   </component>
   <component name="ProjectId" id="1mF4WMQ1bjImVsovikplsaqVy4q" />
@@ -165,7 +174,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609076057360</updated>
-      <workItem from="1609076075637" duration="4433000" />
+      <workItem from="1609076075637" duration="7114000" />
     </task>
     <servers />
   </component>
